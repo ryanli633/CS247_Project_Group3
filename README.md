@@ -1,24 +1,24 @@
 # CS247 Project (Group 3)
 ## UCLA - Winter 2022
 
-Sam Anderson (UID: 405676706)
-Osama Hassen (UID: 105644793)
-Ryan Li (UID: 704142455)
+Sam Anderson (UID: 405676706) \n
+Osama Hassen (UID: 105644793) \n
+Ryan Li (UID: 704142455) \n
 
 The code files (Jupyter notebooks) for our project were run locally on a Macbook in a virtual environment using Python 3.9.2. These code files were also run on a Windows machine. Certain cells or lines of our code files may not be runnable in Google Colab due to memory constraints or certain commands being interpreted differently in the default environment set up in Google Colab. In general, these codes files should be runnable in any environment using Python 3 as long as you have the following packages/dependencies installed via pip: jupyter, numpy, pandas, matplolib, seaborn, plotly, surprise. The full 'pip list' of dependencies that we used is provided below. In certain environments, you may also need to install the latest version of 'wget' available via brew using the shell command:
 
 `brew install wget`
 
 Full `pip list` of dependencies:
-Package              Version
--------------------- -------
-appnope              0.1.2
-argon2-cffi          21.3.0
-argon2-cffi-bindings 21.2.0
-asttokens            2.0.5
-attrs                21.4.0
-backcall             0.2.0
-bleach               4.1.0
+| Package | Version |
+| -------------------- | ------- |
+| appnope             | 0.1.2 |
+| argon2-cffi         | 21.3.0 |
+| argon2-cffi-bindings 21.2.0
+| asttokens            2.0.5
+| attrs                21.4.0
+| backcall             0.2.0
+| bleach               4.1.0
 cffi                 1.15.0
 cycler               0.11.0
 debugpy              1.5.1
